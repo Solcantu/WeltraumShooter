@@ -20,9 +20,32 @@ namespace WeltraumShooter
     /// </summary>
     public partial class MainWindow : Window
     {
+        SpaceShip player_ship;
+
         public MainWindow()
         {
             InitializeComponent();
+            Global.SpaceCanvas = SpaceCanvas;
+            player_ship = new SpaceShip();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            
+            player_ship.Draw();
+            
+            
+            
+        }
+
+        private void Window_KeyDown(object sender, KeyEventArgs e)
+        {
+            player_ship.keyselect(sender,e);   
+        }
+
+        private void SpaceCanvas_KeyDown(object sender, KeyEventArgs e)
+        {
+            
         }
     }
 }

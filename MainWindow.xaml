@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WeltraumShooter"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="400" Width="800" KeyDown="Window_KeyDown">
     <Grid>
-
+        <Canvas Name="SpaceCanvas" Background="Black" Height="400" Width="800" KeyDown="SpaceCanvas_KeyDown">
+            <Button Content="Button" Canvas.Left="199" Canvas.Top="214" Click="Button_Click"/>
+        </Canvas>
     </Grid>
 </Window>
