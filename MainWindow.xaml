@@ -9,52 +9,6 @@
       
 
     <Grid >
-
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="200"/>
-            <ColumnDefinition Width="*" MinWidth="800"/>
-            <ColumnDefinition Width="200"/>
-        </Grid.ColumnDefinitions>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="200"/>
-            <RowDefinition Height="200"/>
-            <RowDefinition Height="200"/>
-            <RowDefinition Height="200"/>
-            <RowDefinition Height="*"/>
-        </Grid.RowDefinitions>
-
-        <Frame x:Name="supeFrame" Grid.Column="1" Grid.Row="2" Grid.RowSpan="2"/>
-
-        <Button x:Name="Start_Btn" Content="START" Foreground="White" FontFamily="Bauhaus 93" FontSize="40" Margin="10,10,10,10" Grid.Column="0" Grid.Row="1" BorderThickness="0" Background="#009619" Click="Start_Btn_Click" >
-            <Button.Resources>
-                <Style TargetType="Border">
-                    <Setter Property="CornerRadius" Value="7"/>
-                </Style>
-            </Button.Resources>
-        </Button>
-
-
-        <Button x:Name="Opt_Btn" Content="Options" Foreground="White" FontFamily="Bauhaus 93" FontSize="40" Margin="10,10,10,10" Grid.Column="0" Grid.Row="2" BorderThickness="0" Background="#5a38b3" MouseMove="Opt_Btn_MouseMove" >
-            <Button.Resources>
-                <Style TargetType="Border">
-                    <Setter Property="CornerRadius" Value="7"/>
-                </Style>
-            </Button.Resources>
-        </Button>
-        <Button x:Name="HS_Btn" Content="Highscore" Foreground="White" FontFamily="Bauhaus 93" FontSize="40" Margin="10,10,10,10" Grid.Column="0" Grid.Row="3" BorderThickness="0" Background="#d85028">
-            <Button.Resources>
-                <Style  TargetType="Border">
-                    <Setter Property="CornerRadius" Value="7"/>
-                </Style>
-            </Button.Resources>
-        </Button>
-        <Button x:Name="HS_Close" Content="END" Foreground="White" FontFamily="Bauhaus 93" FontSize="40" Margin="10,10,10,10" Grid.Column="0" Grid.Row="4" BorderThickness="0" Background="#002865" Click="HS_Close_Click">
-            <Button.Resources>
-                <Style TargetType="Border">
-                    <Setter Property="CornerRadius" Value="7"/>
-                </Style>
-            </Button.Resources>
-        </Button>
+        <ContentControl Name="contentControll"/>
     </Grid>
 </Window>
