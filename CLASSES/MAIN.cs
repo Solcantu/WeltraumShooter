@@ -26,10 +26,8 @@ namespace WeltraumShooter2022_2023.CLASSES
         }
 
         /* 
-╔══════════════════════════════════════════════════════════════════════╗
-║ A N I M A T I O N S   -  M E T H O D E - S T A R T                   ║
-╚══════════════════════════════════════════════════════════════════════╝
-          */
+        TODO: Refractor Code
+        */
         private static void Animation(object sender, EventArgs e)
         {
             //ALLE SPACEOBJEKTE VON DER LEINDWAND ENTFERNEN
