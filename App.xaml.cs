@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WeltraumShooter
+namespace WeltraumShooter2022_2023
 {
     /// <summary>
     /// Interaction logic for App.xaml
