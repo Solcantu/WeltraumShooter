@@ -56,8 +56,6 @@ namespace WeltraumShooter
 
             Global.SpaceCanvas.Children.Add(polygon);
 
-
-
         }
 
         public void Move()

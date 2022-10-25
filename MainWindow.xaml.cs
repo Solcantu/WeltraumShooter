@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace WeltraumShooter
 {
@@ -27,15 +28,23 @@ namespace WeltraumShooter
             InitializeComponent();
             Global.SpaceCanvas = SpaceCanvas;
             player_ship = new SpaceShip();
+
+            DispatcherTimer timer = new DispatcherTimer();
+            timer.Interval = TimeSpan.FromTicks(100);
+            timer.Tick += timer_Tick;
+            timer.Start();
+        }
+
+        private void timer_Tick(object sender, EventArgs e)
+        {
+
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             
             player_ship.Draw();
-            
-            
-            
+                       
         }
 
         private void Window_KeyDown(object sender, KeyEventArgs e)
