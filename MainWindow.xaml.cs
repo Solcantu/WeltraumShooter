@@ -21,19 +21,23 @@ namespace WeltraumShooter
     public partial class MainWindow : Window
     {
         SpaceShip player_ship;
+        Star new_star;
 
         public MainWindow()
         {
             InitializeComponent();
             Global.SpaceCanvas = SpaceCanvas;
             player_ship = new SpaceShip();
+            new_star = new Star();
+            //player_ship.Draw();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             
-            player_ship.Draw();
             
+            new_star.Draw();
+            new_star.Show();
             
             
         }

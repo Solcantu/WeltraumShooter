@@ -19,5 +19,7 @@ namespace WeltraumShooter
         public static Canvas SpaceCanvas { get; set; }
         public static  Direction direction { get; set; }
 
+        public static List <Star> stars { get; set; }
+
     }
 }
