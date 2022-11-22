@@ -1,0 +1,56 @@
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.exe
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.deps.json
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.runtimeconfig.json
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.runtimeconfig.dev.json
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.dll
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.pdb
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.csproj.AssemblyReference.cache
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023_MarkupCompile.cache
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023_MarkupCompile.lref
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.g.resources
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.AssemblyInfoInputs.cache
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.AssemblyInfo.cs
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.csproj.CoreCompileInputs.cache
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.dll
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.pdb
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.genruntimeconfig.cache
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\GamePage.g.cs
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\HighScorePage.g.cs
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\OptionPage.g.cs
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\StartPage.g.cs
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\GamePage.baml
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\HighScorePage.baml
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\OptionPage.baml
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\StartPage.baml
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\skydr\OneDrive\SCHULE\LERNSITUATIONEN AB 2019\3 HIT 3 OBERSTUFE IT\2022 - 2023\WeltraumShooter 2023\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\MainWindow.baml
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.exe
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.deps.json
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.runtimeconfig.json
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.runtimeconfig.dev.json
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.dll
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\bin\Debug\netcoreapp3.1\WeltraumShooter2022_2023.pdb
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\GamePage.g.cs
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\HighScorePage.g.cs
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\OptionPage.g.cs
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\StartPage.g.cs
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\App.g.cs
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023_MarkupCompile.cache
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023_MarkupCompile.lref
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\GamePage.baml
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\HighScorePage.baml
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\OptionPage.baml
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\GUI\StartPage.baml
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\MainWindow.baml
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.g.resources
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.AssemblyInfo.cs
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.dll
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.pdb
+\\Mac\Home\Desktop\WeltraumShooter2022_2023\obj\Debug\netcoreapp3.1\WeltraumShooter2022_2023.genruntimeconfig.cache

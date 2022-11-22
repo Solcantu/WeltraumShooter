@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uxEZyQ12PhKTmzBUpHOjuOSb+SUtPJk+2KbpkB9V9RkfppgKcbn/iNCBSg0jeEnUAfCIanKX1Jrvomxax+Ubdg==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\WeltraumShooter2022_2023\\WeltraumShooter2022_2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabianhom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

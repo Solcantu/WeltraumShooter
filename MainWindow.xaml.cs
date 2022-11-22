@@ -1,55 +1,43 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
+﻿using System.Windows;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
-using System.Windows.Shapes;
+using WeltraumShooter2022_2023.CLASSES;
+using WeltraumShooter2022_2023.GUI;
 
-namespace WeltraumShooter
+namespace WeltraumShooter2022_2023
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
-    {
-        SpaceShip player_ship;
-        Star new_star;
-
+    {     
+        GamePage gamePage = new GamePage();
+        
         public MainWindow()
         {
-            InitializeComponent();
-            Global.SpaceCanvas = SpaceCanvas;
-            player_ship = new SpaceShip();
-            new_star = new Star();
-            //player_ship.Draw();
+            InitializeComponent();           
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            
-            
-            new_star.Draw();
-            new_star.Show();
-            
-            
-        }
-
+  
         private void Window_KeyDown(object sender, KeyEventArgs e)
         {
-            player_ship.keyselect(sender,e);   
+            Global.spaceShip.LastPressedKey = e;
         }
 
-        private void SpaceCanvas_KeyDown(object sender, KeyEventArgs e)
+        private void Start_Btn_Click(object sender, RoutedEventArgs e)
         {
-            
+            Start_Btn.IsEnabled = false;           
+            supeFrame.Content = gamePage;
         }
+
+        private void HS_Close_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
+
+        private void Opt_Btn_MouseMove(object sender, MouseEventArgs e)
+        {                      
+        }
+
+
     }
 }
