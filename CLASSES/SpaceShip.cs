@@ -1,5 +1,4 @@
 ﻿using System.Windows;
-using System.Windows.Input;
 using System.Windows.Media;
 
 
@@ -25,52 +24,6 @@ namespace WeltraumShooter2022_2023.CLASSES
             Shape.Points = myPointCollection;
         }
 
-        public void Move()
-        {
-            //Nur wenn es eine zuletzt gedrükte Taste gibt
-            // null => Es ist KEIN Objekt vorhanden
-
-            if (LastPressedKey != null)
-
-                    switch (LastPressedKey.Key)
-                    {
-                        case Key.W:                           
-                            this.Pos.Y -= 10;
-                            break;
-                        case Key.A:
-                            this.Pos.X -= 10;
-                            break;
-                        case Key.S:
-                            this.Pos.Y += 10;
-                            break;
-                        case Key.D:
-                            this.Pos.X += 10;
-                            break;
-                        case Key.Space:
-                            MessageBox.Show("Schuss");
-                            break;
-                        default:
-                            // code block
-                            break;
-                    }
-            if(this.Pos.Y < 0)
-            {
-                this.Pos.Y = 0;
-            }
-            if(this.Pos.Y > 380)
-            {
-                this.Pos.Y = 380;
-            }
-
-            if(this.Pos.X < 0)
-            {
-                this.Pos.X = 0;
-            }
-            if(this.Pos.X > Global.SpaceCanvas.ActualWidth - 50)
-            {
-                this.Pos.X = Global.SpaceCanvas.ActualWidth - 50;
-            }
-            
-        }
+        
     }
 }
