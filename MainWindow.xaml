@@ -9,6 +9,6 @@
       
 
     <Grid >
-        <ContentControl Name="contentControll"/>
+        <ContentControl Name="contentControll" Height="500px" Width="800px"/>
     </Grid>
 </Window>

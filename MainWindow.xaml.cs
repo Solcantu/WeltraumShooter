@@ -3,6 +3,7 @@ using System.Windows.Input;
 using System.Windows.Navigation;
 using WeltraumShooter2022_2023.CLASSES;
 using WeltraumShooter2022_2023.GUI;
+using WeltraumShooter.Design;
 
 namespace WeltraumShooter2022_2023
 {
@@ -11,33 +12,32 @@ namespace WeltraumShooter2022_2023
     /// </summary>
     public partial class MainWindow : Window
     {     
-        GamePage gamePage = new GamePage();
+
+        
+        homePage HomePage = new homePage();
+        gamePage GamePage = new gamePage();
+                
         
         public MainWindow()
         {
-            InitializeComponent();           
+            InitializeComponent();
+            this.contentControll.Content = HomePage;
+            HomePage.getMainWindow = this;
         }
   
         private void Window_KeyDown(object sender, KeyEventArgs e)
         {
             Global.spaceShip.LastPressedKey = e;
         }
-
-        private void Start_Btn_Click(object sender, RoutedEventArgs e)
+        
+        public void changeContent()
         {
-            Start_Btn.IsEnabled = false;           
-            supeFrame.Content = gamePage;
+            this.contentControll.Content = GamePage;
         }
 
         private void HS_Close_Click(object sender, RoutedEventArgs e)
         {
             Close();
         }
-
-        private void Opt_Btn_MouseMove(object sender, MouseEventArgs e)
-        {                      
-        }
-
-
     }
 }

@@ -7,7 +7,7 @@ namespace WeltraumShooter2022_2023.CLASSES
 {
     class SpaceShip : SpaceObject
     {
-        public void Draw()
+        public override void Draw()
         {
             // Unser Shape braucht eine Form, Farbe, Größe
             Shape.Fill = Brushes.Yellow;

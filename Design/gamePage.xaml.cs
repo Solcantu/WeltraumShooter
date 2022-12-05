@@ -12,30 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WeltraumShooter2022_2023;
 
 namespace WeltraumShooter.Design
 {
     /// <summary>
-    /// Interaktionslogik für homePage.xaml
+    /// Interaktionslogik für gamePage.xaml
     /// </summary>
-    public partial class homePage : UserControl
+    public partial class gamePage : UserControl
     {
-        private MainWindow mainWindow;
-        public MainWindow getMainWindow
-        {
-            set { mainWindow = value; }
-        }
-        
-        //WeltraumShooter2022_2023.MainWindow mainWindow = new MainWindow();
-        public homePage()
+        public gamePage()
         {
             InitializeComponent();
-        }
-
-        private void StartButton_Click(object sender, RoutedEventArgs e)
-        {
-           mainWindow.changeContent();   
         }
     }
 }
