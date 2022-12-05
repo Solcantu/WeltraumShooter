@@ -10,7 +10,7 @@ using Vector = System.Windows.Vector;
 
 namespace WeltraumShooter2022_2023.CLASSES
 {
-    class SpaceObject
+    abstract class SpaceObject
     {
         public Vector Pos = new Vector();
         public Polygon Shape = new Polygon();
@@ -18,6 +18,8 @@ namespace WeltraumShooter2022_2023.CLASSES
         public KeyEventArgs LastPressedKey { get; set; }
         public bool isMoveable = false;
 
+        public abstract void Draw();
+     
         /// <summary>
         /// Zeichnet das entsprechende Objekt
         /// </summary>

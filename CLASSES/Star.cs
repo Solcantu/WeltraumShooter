@@ -16,7 +16,7 @@ namespace WeltraumShooter2022_2023.CLASSES
         }
 
 
-        public void Draw() // STERN
+        public override void Draw() // STERN
         {
             // Unser Shape braucht eine Form, Farbe, Größe
             Shape.Fill = Brushes.White;
